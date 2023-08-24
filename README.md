@@ -1,38 +1,13 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# Programación con objetos I
+### Leandro Ariel Di Pietro
+¡Hola! Me llamo Leandro, tengo 24 años y vivo en Castelar. Este es mi tercer cuatrimestre en la universidad. Estoy cursando programación con objetos I, bases de datos e inglés II. 
+Me gusta ver series y películas, leer y jugar videojuegos.
+Cuando terminé la secundaria comencé a trabajar en atención al cliente durante un tiempo. Después de eso, ingresé a la UNLaM para estudiar la carrera de Licenciatura en Kinesiología y Fisiatría.
+A lo largo de la pandemia, no pude cursar algunas materias a distancia por ser prácticas, lo cual retrasó el plan de estudios. Por lo tanto, en 2021, durante la cursada de materias de tercer año, tomé la decisión de abandonar Kinesiología. 
+Durante el 2022, comencé a investigar sobre otra carrera que, si bien me gustaba, nunca me había planteado seriamente. De esta manera, elegí estudiar la Licenciatura en Informática. Si bien la UNLaM dispone de esa carrera, preferí anotarme nuevamente en la UNAHUR debido a sus novedosas tecnicaturas y su cercanía.
+Fue así como en marzo del 2022 me anoté a la Tecnicatura Universitaria en Programación y comencé a cursar el CPU en junio.
+En un futuro, espero poder capacitarme como profesional y en el corto plazo poder conseguir trabajo en relación con lo que estudio.
+Les dejo una imagen mía:
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
-
-```wollok
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
-
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1Ik6coqFm2lr2m6EFBGo3Ul4Bi4RPhrrtMQLbK3WcbIQ/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-* [Guía Rápida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
-
-### Presentacion Personal
-
-Me llamo ...
-
-Me gusta ...
-
-Me dedico a / Trabajo de ...
-
-Les dejo una imagen mía 
-
-![subir archivo de imagen](imagen.jpg)
+![Mi foto](./assets/Foto.jpg)
